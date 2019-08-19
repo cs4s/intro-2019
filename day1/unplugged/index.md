@@ -32,7 +32,7 @@ The second of these concepts are *Loops*, which refers to the way that computers
 
 - [Computer Science Unplugged: Image Representation Activity ](unplugged_image_representation.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 
-### Links
+## Links
 
 - [Code.org's Computer Science Fundamentals Unplugged Resources](https://code.org/curriculum/unplugged){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Computer Science Unplugged](https://csunplugged.org/en/){:target="_blank"} <i class="fas fa-link session-icon"></i>
