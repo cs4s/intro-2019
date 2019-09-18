@@ -290,4 +290,12 @@ footer p {
   padding: 2em;
 }
 
+a.navbar-brand {
+  font-size: 1.4rem;
+}
+
+a.nav-link {
+  font-size: 1.15rem;
+}
+
 
