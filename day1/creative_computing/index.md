@@ -65,7 +65,7 @@ You will also have the opportunity to engage in a **Computational Practice**, wh
 
 - [Code Club Resources](http://projects.codeclubworld.org/en-GB/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Google CS First](https://csfirst.withgoogle.com/s/en/home){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [ScratchMaths](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths) {:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [ScratchMaths](http://www.ucl.ac.uk/ioe/research/projects/scratchmaths){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 ## Session Outcomes
 
