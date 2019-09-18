@@ -16,10 +16,14 @@ The guide has been developed for *Scratch* but some of the guide's activities co
 
 The design of the *Creative Computing Curriculum* is centred on **four main principles**:
 
-- **Creating:** offer opportunities for learners to engage in designing and making, not just listening, observing, and using.
-- **Personalising:** offer opportunities for learners to engage in activities that are personally meaningful and relevant.
-- **Sharing:** offer opportunities for learners to engage in interactions with others as audience, coaches, and co-creators.
-- **Reflecting:** offer opportunities for learners to review and rethink their creative practices.
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <img src="presentation/images/principles.png" class="img-fluid " alt="The four main Creative Computing Curriculum principles"/>
+    </div>
+</div>
+
+
+
 
 [Dr Karen Brennan](https://www.gse.harvard.edu/faculty/karen-brennan){:target="_blank"} conducted research into how students and teachers used Scratch and her findings from this research also influenced the design of the *Creative Computing Curriculum Guide*. 
 The main focus of Dr Brennan's research was understanding how educators (in schools and in informal learning environments, such as libraries) balanced learners' *structure* and *agency* when teaching coding with Scratch.
