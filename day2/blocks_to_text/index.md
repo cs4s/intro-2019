@@ -45,7 +45,7 @@ In this section, we have included links to resources for learning and teaching w
 ### PencilCode
 
 - [Pencil Code Homepage](http://pencilcode.net/){:target="_blank"} <i class="fas fa-link session-icon"></i>
-- [Pencil Code Quick Reference Sheet](http://pencilcode.net/material/reference.pdf){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Pencil Code Quick Reference Sheet](http://pencilcode.net/material/reference.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 - [Pencil Code Teacher's Manual](http://manual.pencilcode.net/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Pencil Code: A Programming Primer Book](https://book.pencilcode.net){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Digital Technologies Hub: "Design a Flag with Pencil Code" Lesson Idea](http://www.digitaltechnologieshub.edu.au/teachers/lesson-ideas/integrating-digital-technologies/design-a-flag-with-pencil-code){:target="_blank"} <i class="fas fa-link session-icon"></i>

@@ -32,11 +32,11 @@ In this session, you will also learn about *Events*, which are another **computa
 
 ### Activities
 
-- [Lightbot](http://lightbot.com/flash.html){:target="_blank"}
-- [Code.org: Frozen](http://code.org/frozen){:target="_blank"}
-- [Code.org: Star Wars](https://code.org/starwars){:target="_blank"}
-- [Code.org: Minecraft](https://code.org/minecraft){:target="_blank"}
-- [Scratch DebugIt 1.1 Project](https://scratch.mit.edu/projects/10437040/){:target="_blank"}
+- [Lightbot](http://lightbot.com/flash.html){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Code.org: Frozen](http://code.org/frozen){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Code.org: Star Wars](https://code.org/starwars){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Code.org: Minecraft](https://code.org/minecraft){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [Scratch DebugIt 1.1 Project](https://scratch.mit.edu/projects/10437040/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
 ### Links
 
