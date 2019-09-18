@@ -11,6 +11,16 @@ In this session you will learn about *Physical Computing* by creating a variety 
 
 In this session we will focus on making programs that involve alternative forms of physical interaction (i.e. not using a keyboard and mouse).
 
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+        <img src="presentation/images/no_keyboard.png" class="img-fluid pc-diagram" alt="Physical computing often involves alternative forms of interaction that don't involve using keyboard and mouse."/>
+    </div>
+</div>
+
+<br />
+*A diagram that summarises Physical Computing - there is no keyboard and mouse input - sensors are used instead.*{: .description}
+{: .text-center }
+
 You may have heard of [Arduinos](https://www.arduino.cc/){:target="_blank"} or [Rasbperry Pis](https://www.raspberrypi.org/){:target="_blank"}. These are both small and cheap computers that can be used in a variety of *Physical Computing* projects. We will use *Micro:bits* in this session's activities, which you could say are a simpler version of these devices.
 
 In this session's activities, you will create a variety of programs that run on *Micro:bit* devices by Coding projects in *Microsoft's MakeCode*. *MakeCode* is an example of a *Hybrid Coding Environment*, like *Pencil Code*, which allows you to switch between *Blocks* and *Text* Coding (using *JavaScript*). There are other options for Coding projects on *Micro:bits*, which allow you to use *Python* (another *Text* language), but we will focus on using *MakeCode* today. 
@@ -25,7 +35,7 @@ When Coding the projects in *MakeCode* and running them on the *Micro:bit* devic
 
 ### Presentations
 
-- [Physical Computing with Micro:bits Presentation](presentation/physical_computing_with_microbits.pdf) <i class="fas fa-file-pdf session-icon"></i>
+- [Physical Computing with Micro:bits Presentation](presentation/physical_computing.pdf) <i class="fas fa-file-pdf session-icon"></i>
 
 ### Activities
 
