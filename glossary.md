@@ -1,6 +1,6 @@
 ---
 layout: glossary
-title: Glossary - CS4S Introduction Workshop @ UON 2018
+title: Glossary - CS4S Introduction Workshop @ UON 2019
 permalink: /glossary
 ---
 # Glossary

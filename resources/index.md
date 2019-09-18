@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Resources - CS4S Introduction Workshop @ UON 2019
 ---
 
 <div class="container">

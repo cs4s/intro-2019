@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 2 - CS4S Introduction Workshop @ UON 2018
+title: Day 2 - CS4S Introduction Workshop @ UON 2019
 ---
 
 # Day 2

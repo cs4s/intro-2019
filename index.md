@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home - CS4S Introduction Workshop @ UON 2018
+title: Home - CS4S Introduction Workshop @ UON 2019
 ---
 
 # Introduction Workshop
