@@ -22,6 +22,7 @@ introduction_path: "/day1/introduction/"
 unplugged_path: "/day1/unplugged/"
 blocks_path: "/day1/blocks/"
 creative_computing_path: "/day1/creative_computing/"
+introduction_path: "/day1/introduction/"
 
 # Day 2 Paths
 day2_path: "/day2/"
