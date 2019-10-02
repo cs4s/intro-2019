@@ -35,7 +35,7 @@ footer: [UoN CS4S Introduction 2019 Workshop](http://cs4s.github.io/intro-2019)
 
 # Puzzles and Projects
 
-- The creators of [Scratch](https://scratch.mit.edu/) are sceptical of only using *Puzzles* for teaching Coding
+- [Scratch](https://scratch.mit.edu/) creators are sceptical of only using *Puzzles*
 - *"This approach [teaching with Puzzles] can help students learn some basic coding concepts, but it doesn’t allow them to express themselves creatively — or develop a long-term engagement with coding."[^1]*
 - *"It’s like offering a writing class that teaches only grammar and punctuation without providing students a chance to write their own stories."[^1]*
 
