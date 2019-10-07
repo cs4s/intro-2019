@@ -26,7 +26,7 @@ The second of these concepts are *Loops*, which refers to the way that computers
 
 ### Presentations
 
-- [Teaching Computer Science without a Computer (NEEDS TO BE UPDATED)]() <i class="fas fa-file-powerpoint session-icon"></i>
+- [Teaching Computer Science without a Computer](unplugged_presentation.pptx) <i class="fas fa-file-powerpoint session-icon"></i>
 
 ### Activities
 
