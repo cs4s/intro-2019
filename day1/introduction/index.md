@@ -17,7 +17,7 @@ In this session, we will first explain the main aims of the workshop. We will th
 
 ### Presentations
 
-- [An Introduction to Coding and Computational Thinking (NEEDS TO BE UPDATED!)]() <i class="fas fa-file-powerpoint session-icon"></i>
+- [An Introduction to Coding and Computational Thinking](introduction_presentation.pptx) <i class="fas fa-file-powerpoint session-icon"></i>
 
 ## Links
 
