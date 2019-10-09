@@ -22,7 +22,7 @@ In this session, you will also learn about *Events*, which are another **computa
 
 ## Key Terms
 
-[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [events](){: . metalanguage }, [debugging](){: .metalanguage }, [reset](){: .metalanguage}
+[algorithm](){: .metalanguage }, [computational thinking](){: .metalanguage }, [computational concept](){: .metalanguage}, [coding](){: .metalanguage }, [visual programming](){: .metalanguage }, [sequences](){: .metalanguage }, [loops](){: .metalanguage }, [events](){: .metalanguage }, [debugging](){: .metalanguage }, [reset](){: .metalanguage}
 
 ## Materials
 
