@@ -24,6 +24,7 @@ In this session, we will first explain the main aims of the workshop. We will th
 - [Digital Technologies Hub: ICT vs Digital Technologies](https://www.digitaltechnologieshub.edu.au/teachers/australian-curriculum/ict-vs-digital-technologies){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [NSW Education Standard Authority's Digital Technologies and ICT Resources](https://educationstandards.nsw.edu.au/wps/portal/nesa/k-10/learning-areas/technologies/coding-across-the-curriculum){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [ScratchEd: Defining Computational Thinking](http://scratched.gse.harvard.edu/ct/defining.html){:target="_blank"} <i class="fas fa-link session-icon"></i>
+- [New Frameworks for Studying and Assessing the Development of Computational Thinking](https://web.media.mit.edu/~kbrennan/files/Brennan_Resnick_AERA2012_CT.pdf){:target="_blank"} <i class="fas fa-file-pdf session-icon"></i>
 - [Computer Science Field Guide](https://csfieldguide.org.nz/en/){:target="_blank"} <i class="fas fa-link session-icon"></i>
 - [Careers with STEM: Code - Electronic Magazine](https://issuu.com/refractionmedia/docs/cws_code18_issuu){:target="_blank"} <i class="fas fa-link session-icon"></i>
 
