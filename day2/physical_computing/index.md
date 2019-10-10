@@ -40,7 +40,7 @@ When Coding the projects in *MakeCode* and running them on the *Micro:bit* devic
 ### Activities
 
 - [Making an Interactive Badge with BBC Micro:bits](activities/interactive_badge.docx) <i class="fas fa-file-word session-icon"></i>
-- [Using Different Inputs with BBC Micro:bits](activities/microbit_input.docx) <i class="fas fa-file-word session-icon"></i>
+- [Using Different Inputs with BBC Micro:bits](activities/microbit_inputs.docx) <i class="fas fa-file-word session-icon"></i>
 
 ### Finished Project Files
 
