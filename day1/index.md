@@ -16,7 +16,7 @@ title: Day 1 - CS4S Introduction Workshop @ UON 2019
 | 10:45am - 11:00am | Morning Tea |
 | **11:00am - 12:30pm** | [**Moving from Unplugged to Blocks Coding**]({{ site.baseurl | append: site.blocks_path }}) |
 | 12:30pm - 1:00pm | Lunch |
-| **1:00pm - 1:30pm** |	**Coding: One Teacher’s Journey** | 
+| **1:00pm - 1:30pm** |	[**Coding: One Teacher’s Journey (PowerPoint Presentation)**](coding_one_teachers_journey.pptx) | 
 | **1:30pm - 3:00pm** | [**Creative Computing with Scratch**]({{ site.baseurl | append: site.creative_computing_path }})  |
 |===
 {: .table .table-striped .table-bordered}
